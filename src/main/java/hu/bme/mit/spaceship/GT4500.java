@@ -5,7 +5,7 @@ package hu.bme.mit.spaceship;
 */
 public class GT4500 implements SpaceShip {
 
-  //comment to cause problems
+
 
   private TorpedoStore primaryTorpedoStore;
   private TorpedoStore secondaryTorpedoStore;
